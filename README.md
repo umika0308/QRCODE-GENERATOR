@@ -1,5 +1,6 @@
-# scanqr
-Creating QR code for a local business menu using python.
+# QRCODE-GENERATOR
+# Creating QR code for a local business menu using python.
+
 The QR code menu is a digital menu that allows guests to scan and access the digital menu  displayed on their smartphone after scanning.
 
 To fend off the COVID19 pandemic, restaurant owners chose to digitize to ensure the safety of their customers when they return to business. After the bars and restaurants were reopened after the lockdown, the changes in normal operations  also changed. 
